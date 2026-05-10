@@ -43,11 +43,11 @@ This project includes:
   [project loan (1).sql](https://github.com/user-attachments/files/27569994/project.loan.1.sql)
   Added Power BI dashboard, SQL queries, Tableau workbook, and project screenshots
 
-  ## Dashboard Preview
+## Dashboard Preview
 
-![Dashboard](dashboard1.png)
+<img width="1920" height="1080" alt="dashboard 1" src="https://github.com/user-attachments/assets/389d8ef3-0668-4eb5-bc7e-3ccec9dd810c" />
 
-![Dashboard](dashboard2.png)
+<img width="1473" height="689" alt="power Bi dashboard" src="https://github.com/user-attachments/assets/de326543-90cc-465c-924f-5e706b7b3849" />
 
   
 
